@@ -19,8 +19,7 @@ Sample Output
 
 Here's a sample execution of the program with user input and corresponding outputs:
 
-lessCopy code
-
+```
 `************** X-Country Ski Race Reporting **************
 What would you like to do?
 0 - Exit
@@ -59,6 +58,7 @@ What would you like to do?
 : 0
 
 Keep on Skiing!`
+```
 
 Additional Information
 ----------------------
